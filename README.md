@@ -10,7 +10,7 @@ Features
 - Minecraft sessions
 - Meteor / IAS Accounts
 - Steam Logs
-- EpicGames Logs
+- Epic Games Logs
 - Browsers and decrypted Cookies(firefox ready)
 - Fake Size
 - Configurate Mod Name,Mod Description etc.
