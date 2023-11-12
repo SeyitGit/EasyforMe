@@ -1,8 +1,7 @@
 # EasyforMe
 <p align="center">
   <b>Java Stealer/Grabber/Logger</b> <br>
-  <i>Java stealer for Minecraft Fabric</i>
-  <i>Generate mod with using Discord bot!</i>
+  <i>Java stealer for Minecraft Fabric , Generate mod with using Discord bot!</i>
 </p>
 
 Features
