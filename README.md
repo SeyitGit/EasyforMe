@@ -19,5 +19,8 @@ Features
 - SonOyuncu Accs
 - Undetected (0/63)
 
+- Discord
+- https://discord.gg/4Tm2x42p3j
+
 - Virustotal
 <p align="left"> <img src="https://media.discordapp.net/attachments/1169665464486613125/1173255319569317948/image.png?ex=65634a2a&is=6550d52a&hm=be103e73c0df20ac2bbbaf9ec4745e33a73558175534bb439147ef7f3e10b9c1&&&"width="1920"> <br> </p>
