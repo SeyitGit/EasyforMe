@@ -8,6 +8,8 @@
 
 - Discord
 
+- **Only 8KB**
+
 - Cold Crypto Wallets
 
 - Minecraft sessions
