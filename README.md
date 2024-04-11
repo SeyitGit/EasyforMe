@@ -38,7 +38,7 @@
 
 ### Website
 
-**https://easyfor.me/
+**https://easyfor.me/**
 
 ### Virustotal
 
