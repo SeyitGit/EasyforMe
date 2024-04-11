@@ -30,11 +30,15 @@
 
 - SonOyuncu Accs
 
-- Undetected (0/63)
+- Undetected (0/61)
 
 ### Discord
 
 **https://discord.gg/4Tm2x42p3j**
+
+### Website
+
+**https://easyfor.me/
 
 ### Virustotal
 
