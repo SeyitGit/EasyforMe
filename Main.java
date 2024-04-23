@@ -1,1 +1,3 @@
-public class Stealer
+public class Stealer {
+  
+}
