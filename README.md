@@ -8,11 +8,13 @@
 
 - Discord
 
+- Runtime
+
+- Plugin
+
 - **Only 8KB**
 
 - Cold Crypto Wallets
-
-- Minecraft sessions
 
 - Meteor / IAS Accounts
 
